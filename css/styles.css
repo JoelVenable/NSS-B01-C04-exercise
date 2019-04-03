@@ -12,6 +12,11 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
 a:link,
 a:visited {
   color: #d37a37;
@@ -69,4 +74,12 @@ h1 {
 
 .congressman__name h3 {
   margin: .3rem 0;
+}
+
+.congressman__links {
+
+}
+
+.ionicon {
+  margin-right: .3rem;
 }
